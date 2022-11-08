@@ -6,3 +6,8 @@ Este projeto tem como objetivo inicial, gerar uma rotina de estudos e proporcion
 segue o link no codepen para visualiar a aplicação funcionando:
 
     https://codepen.io/Gorou/pen/mdKOWgB
+    
+## Dia 2 - Barra de progresso
+segue o link no codepen para visualiar a aplicação funcionando:
+
+    https://codepen.io/Oelinton/pen/JjZbQmm
