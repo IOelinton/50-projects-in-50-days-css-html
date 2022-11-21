@@ -11,3 +11,13 @@ segue o link no codepen para visualiar a aplicação funcionando:
 segue o link no codepen para visualiar a aplicação funcionando:
 
     https://codepen.io/Oelinton/pen/JjZbQmm
+
+## Dia 3 - interação entre elementos
+segue o link no codepen para visualiar a aplicação funcionando:
+
+    https://codepen.io/Oelinton/pen/JjZbQmm
+    
+ ## Dia 4 - Barra de nav animada
+segue o link no codepen para visualiar a aplicação funcionando:
+
+    https://codepen.io/Oelinton/pen/jOKBZjR
