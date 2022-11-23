@@ -12,18 +12,19 @@ body {
   height: 99vh;
   overflow: hidden;
   margin: 0;
+  background-color: #ccccff;
  }
 
 .container {
   display: flex;
-  width: 90vh;
+  width: 50vh;
  }
 
  .panel {
   background-size: auto 100%;
   background-position: center;
   background-repeat: no-repeat;
-  height: 80vh;
+  height: 50vh;
   border-radius: 20px;
   color: white;
   cursor: pointer;
