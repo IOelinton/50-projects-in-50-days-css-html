@@ -3,12 +3,13 @@
 header{
   padding-top: 30px;
   font-family: Montserrat;
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 400;
   color: white;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 15px;
 }
 
 body{
@@ -23,7 +24,22 @@ section {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  padding-top: 70px;
+  padding-top: 30px;
+}
+
+.intro {
+  font-family: Montserrat;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.intro p{
+  margin: 10px;
+  font-size: 16px;
+  width: 80%;
+  margin: auto;
+  margin-top: 10px;
 }
 
 a {
@@ -37,11 +53,12 @@ a {
 .card {
   background-color: #ccccff;
   border-radius: 5px;
-  margin: 40px;
+  margin: 20px;
   width: 130px;
   height: 150px;
   border: 2px solid white;
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
