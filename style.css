@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
 
+
 header{
   padding-top: 30px;
   font-family: Montserrat;
@@ -10,6 +11,12 @@ header{
   justify-content: center;
   align-items: center;
   margin-bottom: 15px;
+}
+
+header span{
+  width: 70%;
+  margin: auto;
+  text-align: center;
 }
 
 body{
@@ -40,6 +47,7 @@ section {
   width: 80%;
   margin: auto;
   margin-top: 10px;
+  text-align: center;
 }
 
 a {
